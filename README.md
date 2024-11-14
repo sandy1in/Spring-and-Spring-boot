@@ -1,6 +1,6 @@
 ## Spring Boot Learning
 
-This repository contains my journey and hands-on learning with Spring Framework and Spring Boot. It includes sample projects, and what’s to come.
+This repository contains my journey and hands-on learning with Spring Framework and Spring Boot. It includes sample projects, and idk what’s to come.
 
 ### Topics Covered:
 
